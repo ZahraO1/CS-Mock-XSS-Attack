@@ -15,7 +15,7 @@ const App = () => {
   ]);
   const [task, setTask] = useState({
     text: "",
-    image: ""
+    image: " "
   });
 
 const handleSubmit = e =>{
